@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the Convergence course material
 
 _This is the first page the student will see when opening the url._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+On this website you'll find information to help young learners when they are not feeling optimal. Receive tips and suggestions for chat and phone conversations. See videos to learn how interactions shape outcomes. Do some exercises and try things out. 
