@@ -18,6 +18,7 @@ parts:
     - file: some_more_content/overview.md
       sections:
       - file: some_more_content/chapter_1.md
+      - file: some_more_content/chapter_2.md
   - caption: Exercises
     chapters:
     - file: exercises.md
