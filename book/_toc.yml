@@ -15,6 +15,7 @@ parts:
       - file: file_to_be_added_to_toc.md
       - file: new_file_convergence.md
       - external: https://github.com/TeachBooks/manual/blob/release/book/intro/template.md
+    - file: some_more_content/overview.md
   - caption: Exercises
     chapters:
     - file: exercises.md
