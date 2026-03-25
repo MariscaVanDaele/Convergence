@@ -16,6 +16,8 @@ parts:
       - file: new_file_convergence.md
       - external: https://github.com/TeachBooks/manual/blob/release/book/intro/template.md
     - file: some_more_content/overview.md
+      sections:
+      - file: chapter_1.md
   - caption: Exercises
     chapters:
     - file: exercises.md
